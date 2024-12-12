@@ -1,0 +1,1 @@
+# Human-Acitivity-Recognition-PAMAP2-Data
